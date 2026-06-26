@@ -1,0 +1,2 @@
+# 🎯 Estourando Balões — Solução (Beecrowd 3428)
+[Upsolving já publicado anteriormente, visite: [disponivel aqui]](https://github.com/fabriciobarbosaviegas/Curso-de-programa-o-competitiva-SACOMP-2025/tree/main/3428)
