@@ -30,7 +30,7 @@ Cada problema é acompanhado por uma solução em **Python** ou **C99**, além d
 
 | Beecrowd | Problema                      | Linguagem |
 | -------- | ----------------------------- | --------- |
-| 1127     | Caminho Mais Curto *(Grafos)* | C99       |
+| 1127     | Desvio de Rota | C99       |
 | 1414     | Copa do Mundo                 | Python    |
 | 1437     | Esquerda, Volver!             | Python    |
 | 2234     | Cachorros-Quentes             | Python    |
