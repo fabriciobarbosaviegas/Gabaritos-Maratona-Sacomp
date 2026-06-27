@@ -2,7 +2,7 @@
 
 Esta pasta reúne os **gabaritos oficiais** da prova aplicada durante a **I Maratona SACOMP de Programação**, realizada em **26 de junho de 2026**.
 
-Os problemas foram selecionados para avaliar conhecimentos de algoritmos, estruturas de dados, matemática computacional e técnicas clássicas de programação competitiva, contemplando desde questões introdutórias até problemas de nível intermediário e avançado.
+Os problemas foram selecionados para avaliar conhecimentos de algoritmos, estruturas de dados, matemática computacional e técnicas clássicas de programação competitiva, contemplando desde questões introdutórias até problemas de nível intermediário.
 
 ---
 
