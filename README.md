@@ -12,7 +12,7 @@ Cada problema possui sua implementação (em **Python** ou **C99**) acompanhada 
 * 💡 Exemplos de entrada e saída.
 
 ## Consulte também:
-(Curso de programação competitiva SACOMP 2025)[https://github.com/fabriciobarbosaviegas/Curso-de-programa-o-competitiva-SACOMP-2025]
+[Curso de programação competitiva SACOMP 2025](https://github.com/fabriciobarbosaviegas/Curso-de-programa-o-competitiva-SACOMP-2025)
 
 ---
 
