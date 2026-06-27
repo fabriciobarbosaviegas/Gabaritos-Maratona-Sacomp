@@ -61,41 +61,6 @@ Alguns problemas possuem múltiplas implementações para ilustrar abordagens di
 
 ---
 
-## 📚 Conteúdo
-
-### 🏁 Prova
-
-| Problema | Linguagem                   |
-| -------- | --------------------------- |
-| 1307     | Python                      |
-| 1414     | Python                      |
-| 1933     | Python                      |
-| 2666     | C99                         |
-| 2670     | Python                      |
-| 2880     | Python                      |
-| 2972     | Python + C99 (duas versões) |
-| 2973     | README                      |
-
-### 📘 Simulado AED I
-
-| Problema | Linguagem |
-| -------- | --------- |
-| 1414     | Python    |
-| 1523     | Python    |
-| 2235     | Python    |
-| 3416     | Python    |
-| 3428     | README    |
-
-### 📗 Simulado AED II
-
-| Problema | Linguagem |
-| -------- | --------- |
-| 1127     | C99       |
-| 1414     | Python    |
-| 1437     | Python    |
-| 2234     | README    |
-
----
 
 ## 🎯 Objetivo
 
