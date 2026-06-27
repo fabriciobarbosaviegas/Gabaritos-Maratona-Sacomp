@@ -184,7 +184,7 @@ Complexidade total por caso:
 ### 🐍 Python
 
 ```bash
-python3 amor.py
+python3 1307.py
 ```
 
 ---
